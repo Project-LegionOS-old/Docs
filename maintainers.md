@@ -9,6 +9,6 @@ Poco M2 Pro (miatoll)          |  Dr. Raj Kale  |       Rajkale99     | Rajkale9
 Poco F2 Pro (lmi    )          |  AbdullahPS    |      AbdullahPS     | t6pal
 Moto G (5S) Plus (sanders)     |  Lucas Ponez   |      lucasponez     | pintos
 Redmi Note 7 (Lavender)        |  Murad Zeynal  |      LinuxAlien     | JustAlien
-Moto G7 (river)                |  VitorSSSouza  |      GhostGinkgo    | VitorSSSouza
+Moto G7 (river)                |  VitorSSSouza  |      VitorSSSouza   | VitorSSSouza
 Redmi Note 5 Pro ( Whyred)     | Baba Sahare    |       saharenil     | babasahare72
 Redmi 6 Pro (sakura)           | Soumyajit Paul | soumyajit007-creator| Soumyajitpaul007
