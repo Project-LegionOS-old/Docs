@@ -12,3 +12,4 @@ Moto G7 (river)                |  VitorSSSouza  |      VitorSSSouza   | VitorSSS
 Moto G7 Power (ocean)          |  VitorSSSouza  |      VitorSSSouza   | VitorSSSouza
 Redmi Note 5 Pro ( Whyred)     | Baba Sahare    |       saharenil     | babasahare72
 Redmi 6 Pro (sakura)           | Soumyajit Paul | soumyajit007-creator| Soumyajitpaul007
+Xiaomi POCO X3 (surya)         |  Amjith Babu   |      TheMarc43      | TheMarc43
