@@ -2,7 +2,6 @@
 
 Device                         | Maintainer     | Git id              | Telegram id
 ------------------------------:|:--------------:|:-------------------:|:-------------
-Xiaomi Mi A2 (jasmine_sprout)  | Immanuel Raj   |      IMMANUEL44     | Immanuel_Raj
 Asus Zenfone Max Pro M1        |  Paras Dhiman  |      dhimanparas20  | Ken_kaneki_69
 LeEco LeMax2 (x2)              |   CrisBal      |       CBG-leeco     | CrisBalGreece
 Poco M2 Pro (miatoll)          |  Dr. Raj Kale  |       Rajkale99     | Rajkale99
