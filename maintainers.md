@@ -13,3 +13,4 @@ Redmi Note 5 Pro ( Whyred)     | Baba Sahare    |       saharenil     | babasaha
 Redmi 6 Pro (sakura)           | Soumyajit Paul | soumyajit007-creator| Soumyajitpaul007
 Xiaomi POCO X3 (surya)         |  Amjith Babu   |      TheMarc43      | TheMarc43
 Realme XT (RMX1921)            |  Jigen L       |      ThatisJigen    | jigen_was_here
+Redmi K30 5G (picasso)         | Manuel José M. |       masemoel      |   masemoel
