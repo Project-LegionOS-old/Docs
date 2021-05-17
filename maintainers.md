@@ -14,3 +14,4 @@ Redmi 6 Pro (sakura)           | Soumyajit Paul | soumyajit007-creator| Soumyaji
 Xiaomi POCO X3 (surya)         |  Amjith Babu   |      TheMarc43      | TheMarc43
 Realme XT (RMX1921)            |  Jigen L       |      ThatisJigen    | jigen_was_here
 Redmi K30 5G (picasso)         | Manuel José M. |       masemoel      |   masemoel
+Redmi Note 7 Pro (violet)      | Tamizh Arasan  |  no1opensourcelover |   fosslover
